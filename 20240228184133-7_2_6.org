@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1a1bef2e-7179-4d55-9e04-45ba65ab68c7
+:END:
+#+title: 7.2.6
+A *subspace-embedding* is a [[id:6e3d11c6-ca58-4be8-8d67-787d002ecb70][morphism]] which satisfies the equivalent conditions
+of the following [[id:f7733f2a-edea-499f-9f23-c23ecfb663c0][proposition]]. If, furthermore, the image is a [[id:4fbe067e-0b4f-467a-aabd-a7c5d2391c8d][hyperplane]], it is
+called a *hyperplane-embedding*.

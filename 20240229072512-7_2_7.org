@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f7733f2a-edea-499f-9f23-c23ecfb663c0
+:END:
+#+title: 7.2.7
+For a morphism $g: G_1 \dashrightarrow G_2$ of projective geometries the following
+conditions are equivalent:
+1. $g$ is an embedding and $\operatorname{Im} g$ is a subspace of $G_2$,
+2. $g$ is an initial homomorphism,
+3. $g$ is a homomorphism with empty kernel,
+4. $g = i \circ u$ where $u$ is an isomorphism and $i$ the inclusion of a
+   subspace,
+5. $g = v \circ j$ where $j$ is the inclusion of a subspace and $v$ and
+  isomorphism,
+6. there exists a homomorphism $r: G_2 \dashrightarrow G_1$ such that $r \circ g =
+   \operatorname{Id}_{G_1}$,
+7. $g$ is a section of the category $\mathbf{{Proj}}$ (cf. 7.2.1).

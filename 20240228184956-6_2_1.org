@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6e3d11c6-ca58-4be8-8d67-787d002ecb70
+:END:
+#+title: 6.2.1
+A *morphism* from a projective geometry $G_1$ to a projective geometry $G_2$ is
+a partial map $g: G_1 \dashrightarrow G_2$ satisfying the following axioms:
+
+1. (M_1) $N \coloneqq \operatorname{Ker} g$ is a subspace of $G_1$,
+2. (M_2) if $a, b \not\in N$, $c \in N$ and $a \in b \star c$, then $ga = gb$,
+3. (M_3) if $a, b, c \not\in N$ and $a \in b \star c$, then $ga \in gb \star gc$.
+
+
+A morphism is called *non-degenerate* if its image contains con-collinear points.

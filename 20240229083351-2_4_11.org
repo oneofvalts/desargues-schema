@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4fbe067e-0b4f-467a-aabd-a7c5d2391c8d
+:END:
+#+title: 2.4.11
+A *hyperplane* of a projective geometry $G$ is a subspace $H$ of $G$ which is
+maximal among the strict subspaces of $G$. Hence a subspace $H \subseteq G$ is a
+hyperplane if and only if it is a coatom of the lattice $\mathscr{L}(G)$. We
+denote by $G^{*}$ the set of all hyperplanes of $G$.
