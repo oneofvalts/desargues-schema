@@ -3,7 +3,7 @@
 :END:
 #+title: 8.4.4
 For every vector space $V$ of dimension at least $3$ the projective geometry
-$\mathscr{P}(V)$ is argusian.
+$\mathscr{P}(V)$ is arguesian.
 
 /Proof/. Obviously $\mathscr{P}(V)$ [[id:1a1bef2e-7179-4d55-9e04-45ba65ab68c7][embeds as hyperplane]] into $V \sqcup
 \mathscr{P}(V)$.

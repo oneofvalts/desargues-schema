@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ff9c1836-994d-4964-8f0a-2cf2cb7c2ca5
+:END:
+#+title: 8.4.3
+If $G$ admits a strict [[id:1a1bef2e-7179-4d55-9e04-45ba65ab68c7][subspace-embedding]] into some projective geometry
+$\tilde{G}$, then $G$ is arguesian.
