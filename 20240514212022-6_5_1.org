@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3d9d2ae6-3fa1-4f6f-bd89-76b87423f5c2
+:END:
+#+title: 6.5.1 (Homomorphism)
+A [[id:6e3d11c6-ca58-4be8-8d67-787d002ecb70][morphism]] $g : G_1 \dashrightarrow G_2$ of projective geometries is called a
+*homomorphism* if it satisfies the additional conditions
+- (M_4) if $a, b \in \operatorname{Dom}{g}$ and $ga \neq gb$, then $ga \star gb
+  \subseteq g^\natural (a \star b)$,
+- (M_5) if $a, b \in \operatorname{Dom}{g}$, $a \neq b$ and $ga = gb$, then $(a
+  \star b) \cap \operatorname{Ker}{g} \neq \emptyset$.
+
+
+[[id:119021f9-e133-42e2-80c0-56b324680043][6.1.4 (Natural and sharp of a partial map)]]

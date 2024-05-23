@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       119021f9-e133-42e2-80c0-56b324680043
+:END:
+#+title: 6.1.4 (Natural and sharp of a partial map)
+Let $f : X \dashrightarrow Y$ be any partial map. Then one defines a map
+$f^\natural : \mathcal{P}(X) \to \mathcal{P}(Y)$ and a map $f^\sharp :
+\mathcal{P} (Y) \to \mathcal{P}(X)$ as follows: $f^\natural (A) \coloneqq f (A \cap
+\operatorname{Dom} f) \ \text{and} \ f^\sharp (B) \coloneqq f^{-1} (B) \cup
+\operatorname{Ker} f$

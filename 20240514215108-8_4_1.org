@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5ee7842e-e726-4250-ace4-2e08243fc153
+:END:
+#+title: 8.4.1 (Arguesian geometry)
+Let $G$ be an [[id:605f9ac1-0e88-4052-a4f1-3f08582bdc69][irreducible projective geometry]] of dimension $\geq 2$ and $H
+\subseteq G$ a [[id:4fbe067e-0b4f-467a-aabd-a7c5d2391c8d][hyperplane]]. We say that $G$ is *arguesian with respect to $H$* if
+for any points $z \in G$, $a \in G \setminus (H \cup z)$ and $b \in a \star z$
+there exists an [[id:96d6e6bd-2408-45c6-81e0-e211a52d0cc1][endomorphism]] $\varphi$ having $H$ as [[id:96d6e6bd-2408-45c6-81e0-e211a52d0cc1][axis]], $z$ as [[id:96d6e6bd-2408-45c6-81e0-e211a52d0cc1][center]] and
+satisfying $\varphi a = b$. An *arguesian geometry* is an irreducible projective
+geometry $G$ of dimension $\geq 2$ which is arguesian with respect to every
+hyperplane $H \subseteq G$.

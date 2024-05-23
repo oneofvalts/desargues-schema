@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       605f9ac1-0e88-4052-a4f1-3f08582bdc69
+:END:
+#+title: 2.7.1 (Irreducible projective geometry)
+A projective geometry $G$ is called *irreducible* if $a, b \in G$ and $a \neq b$
+implies that there exists $c \in a \star b$ with $a \neq c \neq b$.
+Geometrically, this means that every line contains at least three points.
+Otherwise the projective geometry is called *reducible*.

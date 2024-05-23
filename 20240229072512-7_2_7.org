@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       f7733f2a-edea-499f-9f23-c23ecfb663c0
 :END:
-#+title: 7.2.7
+#+title: 7.2.7 (Equivalent conditions for being a subspace-embedding)
 For a morphism $g: G_1 \dashrightarrow G_2$ of projective geometries the following
 conditions are equivalent:
 1. $g$ is an embedding and $\operatorname{Im} g$ is a subspace of $G_2$,
 2. $g$ is an initial homomorphism,
-3. $g$ is a homomorphism with empty kernel,
+3. $g$ is a [[id:3d9d2ae6-3fa1-4f6f-bd89-76b87423f5c2][homomorphism]] with empty kernel,
 4. $g = i \circ u$ where $u$ is an isomorphism and $i$ the inclusion of a
    subspace,
 5. $g = v \circ j$ where $j$ is the inclusion of a subspace and $v$ and

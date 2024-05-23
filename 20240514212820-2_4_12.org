@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ea7cd8da-7bce-4bf9-aa3d-91845f2aba97
+:END:
+#+title: 2.4.12 (Equivalent conditions for being a hyperplane)
+For a subspace $H$ of a projective geometry $G$ the following conditions are
+equivalent:
+1) $H$ is a [[id:4fbe067e-0b4f-467a-aabd-a7c5d2391c8d][hyperplane]],
+2) $H$ is a strict [[id:c3e001b8-3da9-42f9-b8af-d8d9db4f3e50][subspace]] and for every point $a \not \in H$ one has $a \vee
+   H = G$,
+3) there exists a point $a \not \in H$ such that $a \lor H = G$,
+4) $H \neq G$ and for any points $a \neq b$ one has $(a \star b) \cap H \neq
+   \emptyset$.

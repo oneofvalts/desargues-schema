@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       ed6118fb-2605-4d80-b748-5929d4866c36
-:END:
-#+title: 7.2.1
-1. An *embedding* of $\mathbf{Proj}$ is an initial monomorphism.
-2. A *section* of a category is a morphism $g: X \to Y$ for which there exists a
-   left inverse, i.e. a morphism $h: Y \to X$ satisfying $h \circ g =
-   \operatorname{Id}_{X}$.

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6e3d11c6-ca58-4be8-8d67-787d002ecb70
 :END:
-#+title: 6.2.1
+#+title: 6.2.1 (Morphism)
 A *morphism* from a projective geometry $G_1$ to a projective geometry $G_2$ is
 a partial map $g: G_1 \dashrightarrow G_2$ satisfying the following axioms:
 

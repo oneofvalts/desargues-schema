@@ -2,16 +2,14 @@
 :ID:       beac00b3-c3ef-49af-a174-48e48ff32729
 :END:
 #+title: 8.3.1
-Let $H \subseteq G \subseteq \bar{G}$ be inclusions of hyperplanes and $\bar{o} \in
-\bar{G} \setminus G$. We consider another hyperplane $G'$ of $\bar{G}$ with $G
-\cap G' = H$ and $\bar{o} \not \in G'$. The map $\pi \coloneqq
+Let $H \subseteq G \subseteq \bar{G}$ be inclusions of [[id:4fbe067e-0b4f-467a-aabd-a7c5d2391c8d][hyperplanes]] and $\bar{o}
+\in \bar{G} \setminus G$. We consider another hyperplane $G'$ of $\bar{G}$ with
+$G \cap G' = H$ and $\bar{o} \not \in G'$. The map $\pi \coloneqq
 \operatorname{pr}_{G, G'}^{\bar{o}}$ (cf. 6.6.9) is an isomorphism $G \to G'$.
-For any $\bar{a} \in \bar{G}$ we define
-$$
-\Phi_{\bar{a}} \coloneqq \operatorname{pr}_{G', G}^{\bar{a}} \circ
-\operatorname{pr}_{G,G'}^{\bar{o}} = \operatorname{pr}_{G', G}^{\bar{a}} \circ \pi
-$$
-Then one has $\Phi_{\bar{a}} \in \mathscr{E}_{H}$, i.e. one gets a map $\Phi :
-\bar{G} \to \mathscr{E}_{H}$. This map $\Phi$ is bijective. Moreover, for
-$\bar{a} \not = \bar{o}$ the point $\operatorname{pr}_{G}^{\bar{o}}(\bar{a})$
-is the center of $\Phi_{\bar{a}}$ (cf. 6.6.8 for $\operatorname{pr}_{G}^{\bar{o}}$).
+For any $\bar{a} \in \bar{G}$ we define $$ \Phi_{\bar{a}} \coloneqq
+\operatorname{pr}_{G', G}^{\bar{a}} \circ \operatorname{pr}_{G,G'}^{\bar{o}} =
+\operatorname{pr}_{G', G}^{\bar{a}} \circ \pi $$ Then one has $\Phi_{\bar{a}}
+\in \mathscr{E}_{H}$, i.e. one gets a map $\Phi : \bar{G} \to \mathscr{E}_{H}$.
+This map $\Phi$ is bijective. Moreover, for $\bar{a} \not = \bar{o}$ the point
+$\operatorname{pr}_{G}^{\bar{o}}(\bar{a})$ is the center of $\Phi_{\bar{a}}$
+(cf. 6.6.8 for $\operatorname{pr}_{G}^{\bar{o}}$).

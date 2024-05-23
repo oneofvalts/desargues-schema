@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c3e001b8-3da9-42f9-b8af-d8d9db4f3e50
+:END:
+#+title: 2.3.1 (Subspace, Projective subgeometry)
+1) A *subspace* of a projective geometry *G* is a subset $E \subseteq G$
+   satisfying
+   $$
+   a, b \in E \implies a \star b \subseteq E.
+   $$
+2) A *projective subgeometry* of a projective geometry $G$ is a subset $G'
+   \subseteq G$ such that $G'$ together with the restriction $\ell' \coloneqq
+   \ell \cap (G' \times G' \times G')$ of the operator $\ell$ to $G'$ is also a
+   projective geometry.

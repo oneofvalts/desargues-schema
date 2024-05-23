@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       96d6e6bd-2408-45c6-81e0-e211a52d0cc1
+:END:
+#+title: 8.1.1 (Endomorphism, center, axis)
+1. An *endomorphism* of a projective geometry $G$ is a [[id:6e3d11c6-ca58-4be8-8d67-787d002ecb70][morphism]] $\varphi : G
+   \dashrightarrow G$.
+2. A *center* of an endomorphism $\varphi : G \dashrightarrow G$ is a point $z
+   \in G$ such that $\varphi z \in x \star z$ for every $x \in
+   \operatorname{Dom}{\varphi}$.
+3. An $axis$ of an endomorphism $\varphi : G \dashrightarrow G$ is a hyperplane
+   $H \subseteq G$ such that $\varphi x = x$ for every $x \in H \cap
+   \operatorname{Dom}{\varphi}$.
